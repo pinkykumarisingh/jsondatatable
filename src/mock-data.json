@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "abc",
+    "address": "mohali",
+    "phoneNumber": "3339627516",
+    "email": "abc@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "pinky",
+    "address": "mohali",
+    "phoneNumber": "0176897987",
+    "email": "pinky@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "kunal",
+    "address": "mohali",
+    "phoneNumber": "78809765",
+    "email": "kunal@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Rocky",
+    "address": "kharar",
+    "phoneNumber": "9897897911",
+    "email": "rocky@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Raman",
+    "address": "siwan",
+    "phoneNumber": "876868767867",
+    "email": "raman@email.com"
+  }
+]
